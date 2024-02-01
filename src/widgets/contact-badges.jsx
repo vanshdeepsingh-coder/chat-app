@@ -1,6 +1,6 @@
 import React from 'react';
 
-const icon_mapping = {'muted': 'notifications_off', 'banned': 'block', 'staff': 'verified_user'};
+const icon_mapping = {'muted': 'notifications_off', 'banned': 'block', 'staff': 'verified_user'}
 
 /* Contact's labels: [you], or icons [muted], [blocked] */
 export default class ContactBadges extends React.PureComponent {
