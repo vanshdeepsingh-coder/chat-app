@@ -1,7 +1,7 @@
 // Edit account parameters.
 import React from 'react';
 import { FormattedMessage } from 'react-intl';
-import { parsePhoneNumber } from 'libphonenumber-js/mobile';
+import { parsePhoneNumber } from 'libphonenumber-js/mobile'
 
 import AvatarUpload from '../widgets/avatar-upload.jsx';
 import BadgeList from '../widgets/badge-list.jsx';
