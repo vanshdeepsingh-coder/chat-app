@@ -1,6 +1,6 @@
 // Create new topic and invite users or send an invite.
 import React from 'react';
-import { FormattedMessage, defineMessages, injectIntl } from 'react-intl';
+import { FormattedMessage, defineMessages, injectIntl } from 'react-intl'
 
 import { Tinode } from 'tinode-sdk';
 
