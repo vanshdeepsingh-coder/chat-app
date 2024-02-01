@@ -1,5 +1,5 @@
 // Edit account parameters.
-import React from 'react';
+import React from 'react'
 import { FormattedMessage } from 'react-intl';
 
 import CheckBox from '../widgets/checkbox.jsx';
