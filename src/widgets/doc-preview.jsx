@@ -2,7 +2,7 @@ import React from 'react';
 import { FormattedMessage } from 'react-intl';
 import SendMessage from '../widgets/send-message.jsx';
 
-import { bytesToHumanSize, shortenFileName } from '../lib/strformat.js';
+import { bytesToHumanSize, shortenFileName } from '../lib/strformat.js'
 
 // Get material icon name from mime type.
 function iconFromMime(mime) {
