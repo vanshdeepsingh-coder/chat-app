@@ -1,6 +1,6 @@
 // Received/read indicator.
 import React from 'react';
-import { defineMessages, injectIntl } from 'react-intl';
+import { defineMessages, injectIntl } from 'react-intl'
 
 import { Tinode } from 'tinode-sdk';
 
