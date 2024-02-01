@@ -1,6 +1,6 @@
 // Edit account parameters.
 import React from 'react';
-import { FormattedMessage, defineMessages, injectIntl } from 'react-intl';
+import { FormattedMessage, defineMessages, injectIntl } from 'react-intl'
 
 import InPlaceEdit from '../widgets/in-place-edit.jsx';
 import PermissionsEditor from '../widgets/permissions-editor.jsx';
