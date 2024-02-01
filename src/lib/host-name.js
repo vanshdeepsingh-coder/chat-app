@@ -1,4 +1,4 @@
-import { KNOWN_HOSTS, DEFAULT_HOST } from '../config.js';
+import { KNOWN_HOSTS, DEFAULT_HOST } from '../config.js'
 
 // Detect server address from the URL
 export function detectServerAddress() {
