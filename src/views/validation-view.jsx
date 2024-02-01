@@ -1,6 +1,6 @@
 // ValidationView: panel for confirming credentials, like email or phone.
 import React from 'react';
-import { FormattedMessage, defineMessages, injectIntl } from 'react-intl';
+import { FormattedMessage, defineMessages, injectIntl } from 'react-intl'
 
 const messages = defineMessages({
   phone: {
