@@ -1,7 +1,7 @@
 // PermissionsEditor: Component for editing permissions
 // <PermissionsEditor mode="JWROD" skip="O" onChange={this.handleCheckboxTest} />
 import React from 'react';
-import { FormattedMessage, defineMessages, injectIntl } from 'react-intl';
+import { FormattedMessage, defineMessages, injectIntl } from 'react-intl'
 
 import CheckBox from './checkbox.jsx';
 import Contact from './contact.jsx';
