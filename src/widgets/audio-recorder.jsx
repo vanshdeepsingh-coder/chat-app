@@ -1,7 +1,7 @@
 // Audio recorder widget.
 
 import React from 'react';
-import { defineMessages, injectIntl } from 'react-intl';
+import { defineMessages, injectIntl } from 'react-intl'
 
 import AudioPlayer from './audio-player.jsx';
 // Workaround for https://bugs.chromium.org/p/chromium/issues/detail?id=642012
