@@ -1,7 +1,7 @@
 import React from 'react';
 
 import LetterTile from './letter-tile.jsx';
-import LoadSpinner from './load-spinner.jsx';
+import LoadSpinner from './load-spinner.jsx'
 
 import { sanitizeUrlForMime } from '../lib/utils.js';
 
