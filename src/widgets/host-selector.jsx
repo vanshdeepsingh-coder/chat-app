@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { KNOWN_HOSTS } from '../config.js';
+import { KNOWN_HOSTS } from '../config.js'
 
 /* Combobox for selecting host name */
 
