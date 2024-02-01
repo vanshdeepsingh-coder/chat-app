@@ -10,7 +10,7 @@ const EXTRACTED_STRINGS = './src/i18n/ex/base-en.json';
 const BASE_LANG        = 'en';
 const LANG_PATTERN     = './src/i18n/*.json';
 const LANG_PATTERN_ONE = './src/i18n/%s.json';
-const OUTPUT_PATTERN   = './src/i18n.min/%s.json';
+const OUTPUT_PATTERN   = './src/i18n.min/%s.json'
 
 const args = process.argv.slice(2);
 
