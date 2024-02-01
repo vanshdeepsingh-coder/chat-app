@@ -2,7 +2,7 @@
 (globalThis["webpackChunktinode_webapp"] = globalThis["webpackChunktinode_webapp"] || []).push([["src_views_account-settings-view_jsx"],{
 
 /***/ "./src/views/account-settings-view.jsx":
-/*!*********************************************!*\
+/*!*********************************************!*
   !*** ./src/views/account-settings-view.jsx ***!
   \*********************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
