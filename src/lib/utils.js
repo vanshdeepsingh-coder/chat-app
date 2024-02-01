@@ -2,7 +2,7 @@
 
 import { Tinode } from 'tinode-sdk';
 
-// Make shortcut icon appear with a green dot + show unread count in title.
+// Make shortcut icon appear with a green dot + show unread count in title
 export function updateFavicon(count) {
   const oldIcon = document.getElementById('shortcut-icon');
   const head = document.head || document.getElementsByTagName('head')[0];
