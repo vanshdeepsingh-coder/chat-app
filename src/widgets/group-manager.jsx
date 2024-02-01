@@ -1,4 +1,4 @@
-// GroupMembers: control for managing a list of group members.
+// GroupMembers: control for managing a list of group members
 import React from 'react';
 import { FormattedMessage, defineMessages, injectIntl } from 'react-intl';
 
