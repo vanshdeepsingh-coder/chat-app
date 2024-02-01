@@ -1,6 +1,6 @@
 // Forward Menu: message forwarding popup/dropdown menu.
 import React from 'react';
-import { FormattedMessage } from 'react-intl';
+import { FormattedMessage } from 'react-intl'
 
 import { Tinode } from 'tinode-sdk';
 
