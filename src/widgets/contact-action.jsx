@@ -1,6 +1,6 @@
 // A panel included into a list of contacts with an action text.
 import React from 'react';
-import { injectIntl } from 'react-intl';
+import { injectIntl } from 'react-intl'
 
 class ContactAction extends React.PureComponent {
   constructor(props) {
