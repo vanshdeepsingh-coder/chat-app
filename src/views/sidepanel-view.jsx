@@ -1,5 +1,5 @@
 import React, { Suspense } from 'react';
-import { defineMessages, FormattedMessage, injectIntl } from 'react-intl';
+import { defineMessages, FormattedMessage, injectIntl } from 'react-intl'
 
 import ErrorPanel from '../widgets/error-panel.jsx';
 import LoadSpinner from '../widgets/load-spinner.jsx';
