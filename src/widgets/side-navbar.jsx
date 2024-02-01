@@ -1,6 +1,6 @@
 import React from 'react';
 
-import LetterTile from './letter-tile.jsx';
+import LetterTile from './letter-tile.jsx'
 import ButtonBack from './button-back.jsx';
 import ContactBadges from './contact-badges.jsx';
 import MenuContacts from './menu-contacts.jsx';
