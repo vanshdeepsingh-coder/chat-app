@@ -1,6 +1,6 @@
 // View for editing topic parameters (including 'me' topic).
 
-import React from 'react';
+import React from 'react'
 
 import TopicDescEdit from '../widgets/topic-desc-edit.jsx';
 
