@@ -1,6 +1,6 @@
 // The top-level class to hold all functionality together.
 import React, { Suspense } from 'react';
-import { FormattedMessage, defineMessages, injectIntl } from 'react-intl';
+import { FormattedMessage, defineMessages, injectIntl } from 'react-intl'
 
 import { initializeApp as firebaseInitApp } from 'firebase/app';
 import { getMessaging as firebaseGetMessaging, getToken as firebaseGetToken,
