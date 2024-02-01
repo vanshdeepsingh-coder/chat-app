@@ -1,5 +1,5 @@
 import React from 'react';
-import { FormattedMessage, defineMessages, injectIntl } from 'react-intl';
+import { FormattedMessage, defineMessages, injectIntl } from 'react-intl'
 import SendMessage from './send-message.jsx';
 
 import { bytesToHumanSize } from '../lib/strformat.js';
