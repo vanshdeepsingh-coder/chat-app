@@ -1,6 +1,6 @@
 /* ContactsView holds all contacts-related stuff */
 import React from 'react';
-import { FormattedMessage, defineMessages } from 'react-intl';
+import { FormattedMessage, defineMessages } from 'react-intl'
 
 import ContactList from '../widgets/contact-list.jsx';
 
