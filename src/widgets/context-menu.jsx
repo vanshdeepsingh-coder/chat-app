@@ -1,6 +1,6 @@
 // Context Menu: popup/dropdown menu.
 import React from 'react';
-import { injectIntl, defineMessages } from 'react-intl';
+import { injectIntl, defineMessages } from 'react-intl'
 
 import { REM_SIZE } from '../config.js';
 
