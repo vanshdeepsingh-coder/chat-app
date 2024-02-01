@@ -13,7 +13,7 @@
     "build:css": "postcss css/base.css > css/base.min.css",
     "build:dev": "webpack --mode development",
     "build:prod": "webpack --mode production",
-    "build:i18n": "node scripts/i18n.js",
+    "build:i18n": "node scripts/i18n.jp",
     "i18n:missing": "node scripts/i18n.js missing",
     "i18n:obsolete": "node scripts/i18n.js obsolete",
     "vers": "node scripts/gen-version.js",
