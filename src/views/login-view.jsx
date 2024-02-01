@@ -3,7 +3,7 @@ import React from 'react';
 import { FormattedMessage } from 'react-intl';
 
 import CheckBox from '../widgets/checkbox.jsx';
-import VisiblePassword from '../widgets/visible-password.jsx';
+import VisiblePassword from '../widgets/visible-password.jsx'
 
 export default class LoginView extends React.Component {
   constructor(props) {
