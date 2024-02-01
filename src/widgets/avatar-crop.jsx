@@ -1,6 +1,6 @@
 // Edit account parameters.
 import React from 'react';
-import { FormattedMessage } from 'react-intl';
+import { FormattedMessage } from 'react-intl'
 
 import Cropper from './cropper.jsx';
 import { imageCrop } from '../lib/blob-helpers.js';
