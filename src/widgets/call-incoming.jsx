@@ -1,7 +1,7 @@
 // IncomingCall: displays Accept & Reject buttons for incoming calls.
 import React from 'react';
 
-import BadgeList from './badge-list.jsx';
+import BadgeList from './badge-list.jsx'
 import LetterTile from './letter-tile.jsx';
 
 import { MAX_TITLE_LENGTH, MAX_PEER_TITLE_LENGTH } from '../config.js';
