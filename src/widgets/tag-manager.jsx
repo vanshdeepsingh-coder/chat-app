@@ -2,7 +2,7 @@
 import React from 'react';
 import { FormattedMessage } from 'react-intl';
 
-import ChipInput from './chip-input.jsx';
+import ChipInput from './chip-input.jsx'
 
 import { MAX_TAG_COUNT, MAX_TAG_LENGTH, MIN_TAG_LENGTH } from '../config.js';
 import { arrayEqual } from '../lib/utils.js';
