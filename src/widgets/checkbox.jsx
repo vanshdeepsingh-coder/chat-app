@@ -1,6 +1,6 @@
 import React from 'react';
 
-/* CheckBox: styled three-state checkbox, either clickable or static */
+/* CheckBox: styled three-state checkbox, either clickable or static*/
 export default class CheckBox extends React.PureComponent {
   constructor(props) {
     super(props);
