@@ -1,7 +1,7 @@
 // Image view with progress bar and a cancel button.
 import React from 'react';
 
-import FileProgress from './file-progress.jsx';
+import FileProgress from './file-progress.jsx'
 
 export default class UploadingImage extends React.PureComponent {
   constructor(props) {
