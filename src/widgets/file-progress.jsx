@@ -1,6 +1,6 @@
 // File uload/download progress indicator with a cancel inside.
 import React from 'react';
-import { FormattedMessage } from 'react-intl';
+import { FormattedMessage } from 'react-intl'
 
 export default class FileProgress extends React.PureComponent {
   render() {
