@@ -1,6 +1,6 @@
 // Send message form.
 import React, { Suspense } from 'react';
-import { FormattedMessage, defineMessages, injectIntl } from 'react-intl';
+import { FormattedMessage, defineMessages, injectIntl } from 'react-intl'
 import { Drafty } from 'tinode-sdk';
 
 // Lazy-loading AudioRecorder because it's quite large due to
