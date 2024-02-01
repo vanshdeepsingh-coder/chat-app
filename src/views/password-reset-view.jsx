@@ -1,6 +1,6 @@
 // A password reset form.
 import React from 'react';
-import { FormattedMessage, defineMessages, injectIntl } from 'react-intl';
+import { FormattedMessage, defineMessages, injectIntl } from 'react-intl'
 
 import PhoneEdit from '../widgets/phone-edit.jsx';
 import VisiblePassword from '../widgets/visible-password.jsx';
