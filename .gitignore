@@ -1,4 +1,4 @@
 .DS_Store
-node_modules
+node_module
 src/i18n/srci/
 webapp.code-workspace.code-workspace
