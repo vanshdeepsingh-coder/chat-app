@@ -14,5 +14,5 @@ function writeVersion(fileName, useExport) {
   );
 }
 
-writeVersion('./src/version.js', true);
+writeVersion('./src/version.js', true)
 writeVersion('./version.js', false);
