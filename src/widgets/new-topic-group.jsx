@@ -1,5 +1,5 @@
 import React from 'react';
-import { FormattedMessage } from 'react-intl';
+import { FormattedMessage } from 'react-intl'
 
 import AvatarCrop from './avatar-crop.jsx';
 import AvatarUpload from './avatar-upload.jsx';
