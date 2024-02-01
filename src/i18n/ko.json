@@ -1,6 +1,6 @@
 {
   "action_block_contact": {
-    "translation": "연락차단",
+    "translation": "연락차",
     "defaultMessage": "Block Contact",
     "description": "Flat button [Block Contact]",
     "missing": false,
