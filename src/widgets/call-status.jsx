@@ -2,7 +2,7 @@
 import React from 'react';
 import { FormattedMessage } from 'react-intl';
 
-import { secondsToTime } from '../lib/strformat.js';
+import { secondsToTime } from '../lib/strformat.js'
 
 // Props:
 //  incoming: true | false.
