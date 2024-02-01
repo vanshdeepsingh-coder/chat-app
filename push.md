@@ -1,6 +1,6 @@
 # Push notifications
 
-If you want to use the app with your own server and want web push notification to work you have to set them up:
+If you want to use the app with your own server and want web push notification to work you have to set them up
 
 * Register at https://firebase.google.com/, set up the project if you have not done so already.
 * Follow instructions to create a web application https://support.google.com/firebase/answer/9326094 in your project.
