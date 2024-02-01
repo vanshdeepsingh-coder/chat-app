@@ -1,6 +1,6 @@
 const TerserPlugin = require('terser-webpack-plugin');
 const CopyPlugin = require('copy-webpack-plugin');
-const path = require('path');
+const path = require('path')
 
 module.exports = (env, argv) => {
   const mode = argv.mode === 'production' ? 'prod' : 'dev';
