@@ -2,7 +2,7 @@
 (globalThis["webpackChunktinode_webapp"] = globalThis["webpackChunktinode_webapp"] || []).push([["src_views_password-reset-view_jsx"],{
 
 /***/ "./src/views/password-reset-view.jsx":
-/*!*******************************************!*\
+/*!*******************************************!*
   !*** ./src/views/password-reset-view.jsx ***!
   \*******************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
