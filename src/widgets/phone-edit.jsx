@@ -1,7 +1,7 @@
 // Editor for a phone number.
 
 import React from 'react';
-import { defineMessages, injectIntl } from 'react-intl';
+import { defineMessages, injectIntl } from 'react-intl'
 import { AsYouType, getExampleNumber, parsePhoneNumber } from 'libphonenumber-js/mobile';
 import examples from 'libphonenumber-js/mobile/examples'
 
