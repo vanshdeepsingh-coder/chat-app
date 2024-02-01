@@ -1,5 +1,5 @@
 // The <- button to be displayed in title bars.
-import React from 'react';
+import React from 'react'
 
 export default class ButtonBack extends React.PureComponent {
   render() {
