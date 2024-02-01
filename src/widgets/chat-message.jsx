@@ -1,7 +1,7 @@
 // Single chat message bubble, sent or received.
 
 import React from 'react';
-import { FormattedMessage, injectIntl } from 'react-intl';
+import { FormattedMessage, injectIntl } from 'react-intl'
 import { Drafty, Tinode } from 'tinode-sdk';
 
 import Attachment from './attachment.jsx';
