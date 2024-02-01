@@ -1,7 +1,7 @@
 // Selector for country dialing code.
 
 import React from 'react';
-import { injectIntl } from 'react-intl';
+import { injectIntl } from 'react-intl'
 
 import * as dcodes from '../dcodes.json';
 
