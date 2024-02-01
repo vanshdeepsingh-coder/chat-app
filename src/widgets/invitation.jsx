@@ -1,6 +1,6 @@
 // A single topic or user.
 import React from 'react';
-import { FormattedMessage } from 'react-intl';
+import { FormattedMessage } from 'react-intl'
 
 export default class Invitation extends React.PureComponent {
   constructor(props) {
