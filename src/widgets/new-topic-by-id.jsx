@@ -1,5 +1,5 @@
 import React from 'react';
-import { FormattedMessage, defineMessages, injectIntl } from 'react-intl';
+import { FormattedMessage, defineMessages, injectIntl } from 'react-intl'
 
 const messages = defineMessages({
   invalid_id: {
