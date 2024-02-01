@@ -1,7 +1,7 @@
 // Enter one credential at a time.
 
 import React from 'react';
-import { defineMessages, FormattedMessage, injectIntl } from 'react-intl';
+import { defineMessages, FormattedMessage, injectIntl } from 'react-intl'
 import PhoneEdit from './phone-edit.jsx';
 import { parsePhoneNumber } from 'libphonenumber-js/mobile';
 
