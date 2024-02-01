@@ -2,7 +2,7 @@
 (globalThis["webpackChunktinode_webapp"] = globalThis["webpackChunktinode_webapp"] || []).push([["src_widgets_audio-recorder_jsx"],{
 
 /***/ "./src/widgets/audio-recorder.jsx":
-/*!****************************************!*\
+/*!****************************************!*
   !*** ./src/widgets/audio-recorder.jsx ***!
   \****************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
