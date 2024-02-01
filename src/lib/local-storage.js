@@ -4,7 +4,7 @@
 export default class LocalStorageUtil {
   // Replace old object with the new one.
   static setObject(key, value) {
-    localStorage.setItem(key, JSON.stringify(value));
+    localStorage.setItem(key, JSON.stringify(value))
   }
 
   // Get stored object.
