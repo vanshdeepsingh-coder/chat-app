@@ -1,6 +1,6 @@
 // CallPanel displays call in progress: local and remote viewports and controls.
 import React from 'react';
-import { FormattedMessage, defineMessages, injectIntl } from 'react-intl';
+import { FormattedMessage, defineMessages, injectIntl } from 'react-intl'
 
 import LetterTile from './letter-tile.jsx';
 
