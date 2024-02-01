@@ -5,9 +5,9 @@ title: ''
 labels: bug
 assignees: ''
 
-----
+---
 
-If you want to ask a question, please post to https://groups.google.com/d/forum/tinode instead.
+If you want to ask a question, please post to https://groups.google.com/d/forum/tinode instead
 ---
 
 **Describe the bug**
