@@ -2,7 +2,7 @@
   "action_block_contact": {
     "translation": "Заблокировать контакт",
     "defaultMessage": "Block Contact",
-    "description": "Flat button [Block Contact]",
+    "description": "Flat button [BlockContact]",
     "missing": false,
     "obsolete": false
   },
