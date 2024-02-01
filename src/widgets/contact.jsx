@@ -1,6 +1,6 @@
 // A single topic or user.
 import React from 'react';
-import { FormattedMessage, injectIntl } from 'react-intl';
+import { FormattedMessage, injectIntl } from 'react-intl'
 
 import ContactBadges from './contact-badges.jsx';
 import LetterTile from './letter-tile.jsx';
