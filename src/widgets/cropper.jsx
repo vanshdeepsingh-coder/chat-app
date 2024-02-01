@@ -1,6 +1,6 @@
 // Image zoom and crop widget.
 
-import React from 'react';
+import React from 'react'
 
 const DEFAULT_MAX_ZOOM = 2.5;
 
