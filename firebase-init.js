@@ -1,7 +1,7 @@
 // Get these values for your project from the https://console.firebase.google.com/
 const FIREBASE_INIT = {
   // Set up a web application in console then get the config object.
-  // The following keys are copied from the object:
+  // The following keys are copied from the object
   apiKey: "AIzaSyD6X4ULR-RUsobvs1zZ2bHdJuPz39q2tbQ",
   messagingSenderId: "114126160546",
   projectId: "tinode-1000",
