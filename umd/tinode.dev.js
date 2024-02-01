@@ -8,7 +8,7 @@
 	else
 		root["tinode"] = factory();
 })(this, () => {
-return /******/ (() => { // webpackBootstrap
+return /******/ (() => { // webpackBootstra
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
