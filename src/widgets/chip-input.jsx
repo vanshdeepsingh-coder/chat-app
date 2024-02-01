@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Chip from './chip.jsx';
+import Chip from './chip.jsx'
 
 import { makeImageUrl } from '../lib/blob-helpers.js';
 
