@@ -1,6 +1,6 @@
 {
   "action_block_contact": {
-    "translation": "Kontakt blockieren",
+    "translation": "Kontakt blockiere",
     "defaultMessage": "Block Contact",
     "description": "Flat button [Block Contact]",
     "missing": false,
