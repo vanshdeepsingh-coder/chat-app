@@ -1,7 +1,7 @@
 // Panel with a chat.
 
 import React from 'react';
-import { FormattedMessage, defineMessages, injectIntl } from 'react-intl';
+import { FormattedMessage, defineMessages, injectIntl } from 'react-intl'
 
 import { Drafty, Tinode } from 'tinode-sdk';
 
