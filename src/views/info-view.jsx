@@ -4,7 +4,7 @@ import { FormattedMessage, defineMessages, injectIntl } from 'react-intl';
 
 import { AccessMode, Tinode } from 'tinode-sdk';
 
-import AvatarUpload from '../widgets/avatar-upload.jsx';
+import AvatarUpload from '../widgets/avatar-upload.jsx'
 import BadgeList from '../widgets/badge-list.jsx';
 import CheckBox from '../widgets/checkbox.jsx';
 import ContactList from '../widgets/contact-list.jsx';
