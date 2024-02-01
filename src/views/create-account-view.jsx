@@ -2,7 +2,7 @@
 import React, { Suspense } from 'react';
 import { FormattedMessage } from 'react-intl';
 
-import AvatarCrop from '../widgets/avatar-crop.jsx';
+import AvatarCrop from '../widgets/avatar-crop.jsx'
 import AvatarUpload from '../widgets/avatar-upload.jsx';
 import CheckBox from '../widgets/checkbox.jsx';
 import PhoneEdit from '../widgets/phone-edit.jsx';
