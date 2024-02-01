@@ -1,6 +1,6 @@
 // Message bubble with non-payload content, such as an indicator of deleted content or a date stamp.
 
-import React from 'react';
+import React from 'react'
 
 export default class MetaMessage extends React.PureComponent {
   constructor(props) {
