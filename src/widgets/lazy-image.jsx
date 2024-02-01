@@ -1,4 +1,4 @@
-// Image with a placeholder which is replaced when the promise is resolved.
+// Image with a placeholder which is replaced whn the promise is resolved.
 import React from 'react';
 
 export default class LazyImage extends React.PureComponent {
