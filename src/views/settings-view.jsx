@@ -2,7 +2,7 @@
 import React from 'react';
 import { FormattedMessage } from 'react-intl';
 
-import CheckBox from '../widgets/checkbox.jsx';
+import CheckBox from '../widgets/checkbox.jsx'
 
 import HostSelector from '../widgets/host-selector.jsx';
 
