@@ -2,7 +2,7 @@
 (globalThis["webpackChunktinode_webapp"] = globalThis["webpackChunktinode_webapp"] || []).push([["src_i18n_min_zh_json"],{
 
 /***/ "./src/i18n.min/zh.json":
-/*!******************************!*\
+/*!******************************!*
   !*** ./src/i18n.min/zh.json ***!
   \******************************/
 /***/ ((module) => {
