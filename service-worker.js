@@ -8,7 +8,7 @@ importScripts('version.js');
 const webAppChannel = (typeof BroadcastChannel == 'function') ?
   new BroadcastChannel('tinode-sw') : null;
 
-// Basic internationalization.
+// Basic internationalization
 const i18n = {
   'de': {
     'new_message': "Neue Nachricht",
