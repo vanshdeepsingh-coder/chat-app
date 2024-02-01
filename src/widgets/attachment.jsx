@@ -1,5 +1,5 @@
 import React from 'react';
-import { FormattedMessage } from 'react-intl';
+import { FormattedMessage } from 'react-intl'
 
 import FileProgress from './file-progress.jsx';
 import { bytesToHumanSize } from '../lib/strformat.js';
