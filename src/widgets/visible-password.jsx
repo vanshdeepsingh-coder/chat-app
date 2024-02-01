@@ -1,4 +1,4 @@
-// Password with a visiblity toggle.
+// Password with a visiblity toggle
 import React from 'react';
 
 export default class VisiblePassword extends React.PureComponent {
