@@ -1,4 +1,4 @@
-// ContactList: component for showing a list of contacts,
+// ContactList: component for showing a list of contacts
 // such as a list of group members in a group chat.
 import React from 'react';
 import { defineMessages, injectIntl } from 'react-intl';
