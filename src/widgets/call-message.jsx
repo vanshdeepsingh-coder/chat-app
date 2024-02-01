@@ -1,7 +1,7 @@
 // Chat message describing a video or voice call.
 
 import React from 'react';
-import { FormattedMessage } from 'react-intl';
+import { FormattedMessage } from 'react-intl'
 
 import { secondsToTime } from '../lib/strformat.js';
 
