@@ -1,6 +1,6 @@
 // Short representation of time in the past.
 export function shortDateFormat(then, locale) {
-  locale = locale || window.navigator.userLanguage || window.navigator.language;
+  locale = locale || window.navigator.userLanguage || window.navigator.language
   const now = new Date();
   if (then.getFullYear() == now.getFullYear()) {
     // Same year.
