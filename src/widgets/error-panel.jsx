@@ -1,6 +1,6 @@
 import React from 'react';
 
-import MenuCancel from './menu-cancel.jsx';
+import MenuCancel from './menu-cancel.jsx'
 
 export default class ErrorPanel extends React.PureComponent {
   constructor(props) {
