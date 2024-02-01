@@ -1,5 +1,5 @@
 // Element which shows static video preview:
-// an image with duration and a play button in the middle.
+// an image with duration and a play button in the middle
 
 import React from 'react';
 
