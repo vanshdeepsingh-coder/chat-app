@@ -1,7 +1,7 @@
 // Audio recorder widget.
 
 import React from 'react';
-import { defineMessages, injectIntl } from 'react-intl';
+import { defineMessages, injectIntl } from 'react-intl'
 
 import { secondsToTime } from '../lib/strformat';
 import { base64ToIntArray } from '../lib/blob-helpers';
