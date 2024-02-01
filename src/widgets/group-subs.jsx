@@ -1,4 +1,4 @@
-// GroupSubs: a list of group subscribers currently online.
+// GroupSubs: a list of group subscribers currently online
 // Show in the topic title bar
 import React from 'react';
 import { FormattedMessage } from 'react-intl';
